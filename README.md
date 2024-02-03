@@ -7,10 +7,6 @@ Open your terminal
 
 input "cd demo" and enter
 
-input "python -m venv venv" and enter
-
-input "venv\Script\activate" and enter
-
 input "pip install django" and enter
 
 input "python.exe -m pip install --upgrade pip" and enter
